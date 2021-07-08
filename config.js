@@ -15,9 +15,9 @@ module.exports = {
     tag: 'tags',
   },
   social: {
-    github: 'https://github.com/rolwin100',
+    github: 'https://github.com/fu4303',
     facebook: 'https://www.facebook.com/rolwin.monteiro',
-    twitter: 'https://twitter.com/rolwin100',
+    twitter: 'https://twitter.com/Alec',
     instagram: 'https://www.instagram.com/reevan100/',
     rss: '/rss.xml',
   },
